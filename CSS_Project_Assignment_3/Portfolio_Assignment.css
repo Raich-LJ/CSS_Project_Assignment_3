@@ -1,0 +1,137 @@
+*{
+    background-color: rgb(209, 197, 197);
+}
+
+#content{
+    width: 1170px;
+    border: 15px solid rgb(219, 139, 183);
+    border-radius: 15px;
+    padding: 50px;
+    margin: 20px;
+}
+
+.First_Section{
+    display: flex;
+}
+
+.top_headers{
+    display: flex;
+    list-style: none;
+    padding-left: 500px;
+    gap: 40px;
+}
+
+#highlighted_header{
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 4px;
+    padding-bottom: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.Second_Section{
+    padding-top: 200px;
+    display: flex;
+}
+.introduction{
+padding-left: 200px;
+padding-right: 100px;
+font-size: larger;
+}
+
+.about_me{
+    margin-top: 0px;
+    padding-top: 200px;
+    padding-right: 100px;
+    font-size: larger;
+    }
+
+.Third_Section{
+        display: flex;
+}
+
+.skill_set{
+    padding-top: 200px;
+    padding-right: 80px;
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto;
+    column-gap: 40px;
+    row-gap: 0px;
+    color: black;
+}
+
+#skill_1{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
+
+#skill_2{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
+
+#skill_3{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
+
+#skill_4{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
+
+#skill_5{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
+
+#skill_6{
+    width: 200px;
+    height: fit-content;
+    border: 4px double black;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(209, 197, 197);
+    color: black;
+    text-align: center;
+}
